@@ -10,3 +10,4 @@
 * [Observability — A 3-Year Retrospective](https://thenewstack.io/observability-a-3-year-retrospective/)
 * [Selected articles by Monitoring Weekly](https://monitoring.love/thanks/)
 * [The Service Mesh: What Every Software Engineer Needs to Know about the World's Most Over-Hyped Technology](https://servicemesh.io/)
+* [Kubernetes Storage Patterns](https://blog.min.io/kubernetes-storage-patterns/)
