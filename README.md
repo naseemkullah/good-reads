@@ -11,3 +11,4 @@
 * [Selected articles by Monitoring Weekly](https://monitoring.love/thanks/)
 * [The Service Mesh: What Every Software Engineer Needs to Know about the World's Most Over-Hyped Technology](https://servicemesh.io/)
 * [Kubernetes Storage Patterns](https://blog.min.io/kubernetes-storage-patterns/)
+* [Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
