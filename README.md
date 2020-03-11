@@ -12,4 +12,4 @@
 * [The Service Mesh: What Every Software Engineer Needs to Know about the World's Most Over-Hyped Technology](https://servicemesh.io/)
 * [Kubernetes Storage Patterns](https://blog.min.io/kubernetes-storage-patterns/)
 * [Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
-* (Safer bash scripts with 'set -euxo pipefail')[https://vaneyckt.io/posts/safer_bash_scripts_with_set_euxo_pipefail/]
+* [Safer bash scripts with 'set -euxo pipefail'](https://vaneyckt.io/posts/safer_bash_scripts_with_set_euxo_pipefail/)
