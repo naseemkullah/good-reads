@@ -13,3 +13,4 @@
 * [Kubernetes Storage Patterns](https://blog.min.io/kubernetes-storage-patterns/)
 * [Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
 * [Safer bash scripts with 'set -euxo pipefail'](https://vaneyckt.io/posts/safer_bash_scripts_with_set_euxo_pipefail/)
+* [What to Choose for Your Synchronous and Asynchronous Communication Needs—Redis Streams, Redis Pub/Sub, Kafka, etc.](https://redislabs.com/blog/what-to-choose-for-your-synchronous-and-asynchronous-communication-needs-redis-streams-redis-pub-sub-kafka-etc-best-approaches-synchronous-asynchronous-communication/)
